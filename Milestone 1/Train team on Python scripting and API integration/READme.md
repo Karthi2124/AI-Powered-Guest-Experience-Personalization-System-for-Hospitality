@@ -20,8 +20,7 @@ Python scripting is used to **automate repetitive tasks, process data, and inter
    ```  
    If Python is not installed, install it:  
    ```bash
-   sudo apt update && sudo apt install python3 python3-pip -y  # Ubuntu/Debian  
-   sudo dnf install python3 python3-pip -y  # Fedora  
+   sudo apt update && sudo apt install python3 python3-pip -y  # Ubuntu/Debian    
    ```
 
 2. **Create and Run a Simple Python Script:**  
